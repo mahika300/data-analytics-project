@@ -56,6 +56,28 @@ Focused on analyzing insurance risk factors and claim behavior to support better
 
 ---
 
+### 🔷 3. Global Employee Distribution & Sales Analysis Dashboard
+
+📂 Folder: dashboards/Global_Employee_Country_Analysis
+🛠 Tool: Power BI
+
+Description:
+Analyzed employee distribution and sales performance across multiple countries to understand workforce allocation, role distribution, and regional business contribution.
+
+Key Features:
+
+Country-wise sales quantity analysis
+
+Employee distribution by country
+
+Role-wise employee insights (Sales Rep, Managers, Executives)
+
+Geographic visualization of orders and sales activity
+
+Year-based and country-based interactive filters
+
+Comparative analysis between workforce size and sales volume
+
 
 ⭐ If you like my work, feel free to explore my repositories!
 
