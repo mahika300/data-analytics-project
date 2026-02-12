@@ -58,7 +58,7 @@ Focused on analyzing insurance risk factors and claim behavior to support better
 
 ### 🔷 3. Global Employee Distribution & Sales Analysis Dashboard
 
-📂 Folder: dashboards/Global_Employee_Country_Analysis
+📂 Folder: `dashboards/Global_Employee_Country_Analysis`
 🛠 Tool: Power BI
 
 Description:
@@ -78,6 +78,27 @@ Year-based and country-based interactive filters
 
 Comparative analysis between workforce size and sales volume
 
+
+## 🚴 Bike Purchase Analysis Dashboard (Excel)
+
+📂 Folder: `excel_projects/Bike_purchase_project`
+🛠 Tool: Excel
+
+An interactive Excel dashboard project analyzing customer demographics and purchasing behavior.
+
+### 🔍 Project Highlights:
+- Cleaned raw customer dataset
+- Performed data analysis using Pivot Tables
+- Created an interactive dashboard using slicers
+- Identified key factors influencing bike purchases
+
+### 🛠 Tools Used:
+- Microsoft Excel
+- Pivot Tables
+- Slicers
+- Charts & Visualizations
+
+---
 
 ⭐ If you like my work, feel free to explore my repositories!
 
